@@ -1,0 +1,20 @@
+{
+  "welcome": "~~ Welcome to TIC-TAC-TOE Game ~~",
+  "askFirstPlayer": "Who will play first? Select (1) for the player, (2) for the computer?",
+  "firstPlayerError": "Invalid input, please select either 1 or 2...",
+  "displayFirstPlayer": "(value1) will play first...",
+  "startMatch": "Press Enter to start the match...",
+  "playerMarkersInfo": "=== You are (value1). Computer is (value2) ===",
+  "matchScoreInfo": "=== Player reaching the score of (value1) wins the match ===",
+  "scoreBoard": "Scoreboard: Player (value1) - Computer (value2)",
+  "playerChoose": "Choose a square (value1):",
+  "squareChoiceError": "That's not a valid choice.",
+  "gameWinnerResult": "(value1) won this game!",
+  "gameTieResult": "It's a tie!",
+  "nextGame": "Press Enter to play the next game...",
+  "matchWinnerResult": "Congratulations! (value1) won this match...",
+  "matchScoreResult": "Match score: Player (value1) - Computer (value2)",
+  "askNewMatch": "Would you like to start another match? y/n",
+  "newMatchChoiceError": "Invalid input, enter only (y)es or (n)o please...",
+  "goodbye": "Thanks for playing Tic Tac Toe!"
+}
